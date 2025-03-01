@@ -1,0 +1,15 @@
+freertos\event_groups.o: F:/STM32CubeMX/PFD/STM32Cube_FW_G4_V1.6.1/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+freertos\event_groups.o: F:\keil5\exe\ARM\ARMCompiler_506_Windows_x86_b960\Bin\..\include\stdlib.h
+freertos\event_groups.o: F:/STM32CubeMX/PFD/STM32Cube_FW_G4_V1.6.1/Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+freertos\event_groups.o: F:\keil5\exe\ARM\ARMCompiler_506_Windows_x86_b960\Bin\..\include\stddef.h
+freertos\event_groups.o: F:\keil5\exe\ARM\ARMCompiler_506_Windows_x86_b960\Bin\..\include\stdint.h
+freertos\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+freertos\event_groups.o: F:/STM32CubeMX/PFD/STM32Cube_FW_G4_V1.6.1/Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+freertos\event_groups.o: F:/STM32CubeMX/PFD/STM32Cube_FW_G4_V1.6.1/Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+freertos\event_groups.o: F:/STM32CubeMX/PFD/STM32Cube_FW_G4_V1.6.1/Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+freertos\event_groups.o: F:/STM32CubeMX/PFD/STM32Cube_FW_G4_V1.6.1/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+freertos\event_groups.o: F:/STM32CubeMX/PFD/STM32Cube_FW_G4_V1.6.1/Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+freertos\event_groups.o: F:/STM32CubeMX/PFD/STM32Cube_FW_G4_V1.6.1/Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+freertos\event_groups.o: F:/STM32CubeMX/PFD/STM32Cube_FW_G4_V1.6.1/Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+freertos\event_groups.o: F:/STM32CubeMX/PFD/STM32Cube_FW_G4_V1.6.1/Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+freertos\event_groups.o: F:/STM32CubeMX/PFD/STM32Cube_FW_G4_V1.6.1/Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
